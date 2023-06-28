@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="All">
+    <file>../img/apply.png</file>
+    <file>../img/edit_profile.png</file>
+    <file>../img/view_status_User.png</file>
+  </qresource>
+</RCC>
