@@ -1,6 +1,4 @@
 # E-Placement-Portal
-
-
 Introduction
 Training and management of placement is a crucial part of aneducationalinstitution in which most of the work is done manually.Fromastudent’sperspective, placements can bring a wide range of benefits andopportunities.Manual system in the colleges requires a lot of manpower andtime.Withthisproject we aim to develop an application to solve this issue.. With the Job search portals, the recruitment process is speed upat everystagefrom job postings, to receiving applications fromcandidates, interviewingprocess. The cost of searching/posting jobs will be much less comparedtothetraditional way of advertising. Job search portal stands as an effectivemeansfor Employers to outline the job vacancies, responsibilities andqualificationsto attract job seekers. It is a platform where students can viewandassesstheiropportunities.
 
